@@ -3,10 +3,10 @@
 ## About me ✨
 — A guy in armored suit, but take it off - who are you without it?
 
-— Genius, unemployed, homemaker, poor
+— **Genius**, **unemployed**, **homemaker**, **poor**
 
 ## My stats 📊🔥
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimekadze)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimekadze&show_icons=true&theme=dark)
 
 ## Other 😋
 
@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-- ⚡ Fun fact:
-  I'm gonna die in poverty 😁
+⚡ Fun fact: I'm gonna die in poverty 😁
