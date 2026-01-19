@@ -1,11 +1,14 @@
 # Hey Buddy, Dima here 👋
 
-### About me ✨
+## About me ✨
 — A guy in armored suit, but take it off - who are you without it?
 
 — Genius, unemployed, homemaker, poor
 
-### Etc 😋
+## My stats 📊🔥
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimekadze)](https://github.com/anuraghazra/github-readme-stats)
+
+## Other 😋
 
 
 
@@ -20,7 +23,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 -->
 - ⚡ Fun fact:
   I'm gonna die in poverty 😁
