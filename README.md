@@ -1,9 +1,9 @@
 # Hey Buddy, Dima here 👋
 
 ## About me ✨
-— A guy in armored suit, but take it off - who are you without it?
+— Big man in a suit of armour. Take that off, what are you?
 
-— **Genius**, **unemployed**, **homemaker**, **poor**
+— **Genius**, **unemployed**, **homebody**, **poor**
 
 ## My stats 📊🔥
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimekadze&show_icons=true&theme=dark)
