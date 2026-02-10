@@ -6,10 +6,7 @@
 — **Genius**, **unemployed**, **homebody**, **poor**
 
 ## My stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimekadze&show_icons=true&theme=dark)
-
-## My Stack 😂😂😂
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimekadze&langs_count=5&layout=donut)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dimekadze&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 ## Other 😋
 ⚡ Fun fact: I'm gonna die in poverty 😁
